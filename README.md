@@ -19,17 +19,12 @@
 
 - 📄 Know about my experience 
 
-- ⚡ Fun fact **I am 15 years old**
+- ⚡ Fun fact **I am 19 years old**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="AntoFactZone" height="30" width="40" /></a>
 </p>
-
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
-
-# Hello World!, I'm Shivam, an Indian Software Engineer 👋🏼:
-🛜 currently working on my own <br>👨🏼‍🎓 studying computer science at RGPV Bhopal(M.P.) <br>👨🏼‍💻 working as a Software Developer since 2020 🎬 <i>Shivam tackles tech</i>
 
 
 # 💻 Tech Stack:
@@ -41,8 +36,8 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nightmaregodss&show_icons=true&locale=en&layout=compact" alt="nightmaregodss" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nightmaregodss&show_icons=true&locale=en&layout=compact" alt="AntoFactZone" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nightmaregodss&show_icons=true&locale=en" alt="nightmaregodss" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AntoFactZone&show_icons=true&locale=en" alt="AntoFactZone" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nightmaregodss&" alt="nightmaregodss" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AntoFactZone&" alt="AntoFactZone" /></p>
